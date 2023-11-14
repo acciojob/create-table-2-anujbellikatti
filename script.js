@@ -2,8 +2,8 @@ function createTable() {
     //Write your code here
 let table = document.getElementById("myTable");
 	
-	 let numofrow = Number(prompt("Number of rows"));
-	 let numofcolumn = Number(prompt("Number of columns"));
+	 let numofrow = Number(prompt("Input number of rows"));
+	 let numofcolumn = Number(prompt("Input number of columns"));
 	
 	for(let i=0;i<numofrow;i++){
 		
